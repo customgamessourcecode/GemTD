@@ -1,0 +1,21 @@
+"AddonInfo"
+{
+	maps			"gemtd_race gemtd_1p gemtd_coop"
+	"IsPlayable"	"1"
+    "gemtd_1p"
+    {
+        "MaxPlayers"                    "1"
+    }
+	"gemtd_coop"
+	{
+		"MaxPlayers"                    "4"
+	}
+    "gemtd_race"
+    {
+        "MaxPlayers"                    "4"
+    }
+
+	"Default_Keys"
+    {
+    }
+}
